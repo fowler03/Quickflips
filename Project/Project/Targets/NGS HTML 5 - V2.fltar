@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/NGS TopNav HTML 5.flskn"
+  MasterToc="/Project/TOCs/NGS Sample.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css"
+  Medium="non-print">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  GlossaryTermConversion="first"
+  MasterToc="/Project/TOCs/CGS QF Master.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Quickflips Glossary.flglo" />
+  </Glossaries>
+  <MOBI
+    EnableGenerateMobi="true" />
+</CatapultTarget>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Home Health QF.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css"
+  InjectEmptyPages="false"
+  OutputFile="[%=Heading.AnyLevel%]"
+  OutputFolder="C:\Users\Elizabeth\Desktop\Flare Projects\Quickflips 2016\Output\Elizabeth\Home Health QF">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="expand" />
+  <PDF
+    PageMode="UseNone"
+    ShowUsedBookmarks="true" />
+</CatapultTarget>

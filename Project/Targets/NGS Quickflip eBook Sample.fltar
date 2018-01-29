@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  MasterToc="/Project/TOCs/NGS QF Sample.fltoc"
+  MasterStylesheet="/Content/Content/Resources/Stylesheets/NGS 10.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="expand" />
+  <Glossaries></Glossaries>
+  <DocumentProperties
+    CoverImage="Content\Resources\Images\NGS Hospice Quickflips Cover Art - Final.png" />
+</CatapultTarget>

@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="NGS Hospice Quickflip"
+    Link="/Content/NGS 10/Introduction to Hospice Quickflips.htm">
+    <TocEntry
+      Title="Hospice Quickflips©"
+      Link="/Content/NGS 10/Hospice Quickflips.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Local Coverage Determinations"
+      Link="/Content/NGS 10/Hospice Quickflips 1.htm"
+      ReplaceMergeNode="false"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="General Decline in Clinical Status"
+      Link="/Content/NGS 10/Hospice Quickflips 2.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Non-Disease Specific Baseline"
+      Link="/Content/NGS 10/Hospice Quickflips 3.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Comorbidities"
+      Link="/Content/NGS 10/Hospice Quickflips 4.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="ALS"
+      Link="/Content/NGS 10/Hospice Quickflips 5.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Cancer"
+      Link="/Content/NGS 10/Hospice Quickflips 6.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Coma"
+      Link="/Content/NGS 10/Hospice Quickflips 7.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Heart Disease"
+      Link="/Content/NGS 10/Hospice Quickflips 9.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Dementia"
+      Link="/Content/NGS 10/Hospice Quickflips 8.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="HIV"
+      Link="/Content/NGS 10/Hospice Quickflips 10.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Liver Disease"
+      Link="/Content/NGS 10/Hospice Quickflips 11.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Pulmonary Disease"
+      Link="/Content/NGS 10/Hospice Quickflips 12.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Renal Failure - Acute"
+      Link="/Content/NGS 10/Hospice Quickflips 13.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Renal Failure - Chronic"
+      Link="/Content/NGS 10/Hospice Quickflips 14.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Stroke"
+      Link="/Content/NGS 10/Hospice Quickflips 15.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Assessment and Care Planning"
+      Link="/Content/NGS 10/Hospice Quickflips 16.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Hospice Item Set (HIS)"
+      Link="/Content/NGS 10/Hospice Quickflips 16a.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Visit Frequencies - Nurses"
+      Link="/Content/NGS 10/Hospice Quickflips 17.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Visit Frequencies – Social Workers &amp;amp; Spiritual Care Counselors"
+      Link="/Content/NGS 10/Hospice Quickflips 18.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Hospice Dates and Times"
+      Link="/Content/NGS 10/Hospice Quickflips 19.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Psychosocial and Spiritual Goals"
+      Link="/Content/NGS 10/Hospice Quickflips 20.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Social Worker Documentation"
+      Link="/Content/NGS 10/Hospice Quickflips 21.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Spiritual Care Documentation"
+      Link="/Content/NGS 10/Hospice Quickflips 22.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Attending Physician"
+      Link="/Content/NGS 10/Hospice Quickflips 23.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Consulting Physicians"
+      Link="/Content/NGS 10/Hospice Quickflips 24.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="IDT Meeting “Do’s and Don’ts”"
+      Link="/Content/NGS 10/Hospice Quickflips 25.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Creating a “Culture of Eligibility”"
+      Link="/Content/NGS 10/Hospice Quickflips 26.htm"
+      ReplaceMergeNode="false"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Presenting a New Admission"
+      Link="/Content/NGS 10/Hospice Quickflips 27.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Presenting a Case for Review"
+      Link="/Content/NGS 10/Hospice Quickflips 28.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Reviewing Deaths"
+      Link="/Content/NGS 10/Hospice Quickflips 29.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Complications for Grief"
+      Link="/Content/NGS 10/Hospice Quickflips 30.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Recertification"
+      Link="/Content/NGS 10/Hospice Quickflips 31.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Continuous Care"
+      Link="/Content/NGS 10/Hospice Quickflips 32.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="General Inpatient Care"
+      Link="/Content/NGS 10/Hospice Quickflips 33.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="GIP Due to Psychosocial Crisis"
+      Link="/Content/NGS 10/Hospice Quickflips 34.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Respite Care"
+      Link="/Content/NGS 10/Hospice Quickflips 35.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Hopsice Care in a Nursing Home"
+      Link="/Content/NGS 10/Hospice Quickflips 36.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Discharge and Disposition Planning"
+      Link="/Content/NGS 10/Hospice Quickflips 37.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="SOAP Documentation"
+      Link="/Content/NGS 10/Hospice Quickflips 38.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="SOAP for Social Work and Spiritual Care Coordinators"
+      Link="/Content/NGS 10/Hospice Quickflips 39.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Documentation Self-Check"
+      Link="/Content/NGS 10/Hospice Quickflips 40.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="The Big Questions"
+      Link="/Content/NGS 10/Hospice Quickflips 41.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Karnofsky and Palliative Performance Scales"
+      Link="/Content/NGS 10/Hospice Quickflips 42.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="FAST"
+      Link="/Content/NGS 10/Hospice Quickflips 43.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Resources – Keep Learning"
+      Link="/Content/NGS 10/Hospice Quickflips 44.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Limiting Conditions of Hospice Quickflips©"
+      Link="/Content/NGS 10/Limiting Conditions of Hospice.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+</CatapultToc>

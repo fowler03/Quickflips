@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">Corridor</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">913-362-0600</Variable>
+  <Variable
+    Name="Street Address"
+    Comment="">6405 Metcalf, Ste. 108</Variable>
+  <Variable
+    Name="City, State, ZIP"
+    Comment="">Overland Park, KS 66202</Variable>
+</CatapultVariableSet>

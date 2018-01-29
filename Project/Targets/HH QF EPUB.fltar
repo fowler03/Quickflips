@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Home Health QF.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css"
+  EnableDynamicContentInEpub="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Quickflips Glossary.flglo" />
+  </Glossaries>
+  <DocumentProperties
+    Author="Corridor"
+    CoverImage="Content\Resources\Images\Home Health Quickflips Cover Art - Final.png" />
+</CatapultTarget>

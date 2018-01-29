@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>My Term</Term>
+    </Terms>
+    <Definition>My definition</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>LCD</Term>
+    </Terms>
+    <Definition>Local Coverage Determinations</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>MAC</Term>
+    </Terms>
+    <Definition>Medicare Administrative Contractor</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>FAST</Term>
+    </Terms>
+    <Definition>Functional Assessment Staging</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>ALS</Term>
+    </Terms>
+    <Definition>Amyotrophic Lateral Sclerosis</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>COPD</Term>
+    </Terms>
+    <Definition>Chronic Obstructive Pulmonary Disease</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>ADL</Term>
+    </Terms>
+    <Definition>Activity of Daily Living</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>CHF</Term>
+    </Terms>
+    <Definition>Congestive Heart Failure</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>AIDS</Term>
+    </Terms>
+    <Definition>Acquired Immune Deficiency Syndrome</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>HIV</Term>
+    </Terms>
+    <Definition>Human Immunodeficiency Virus</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>INR</Term>
+    </Terms>
+    <Definition>International Normalized Ratio</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>POC</Term>
+    </Terms>
+    <Definition>Plan of Care</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>IDT</Term>
+    </Terms>
+    <Definition>Interdisciplinary Team</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>HIS</Term>
+    </Terms>
+    <Definition>Hospice Item Set</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>COTI</Term>
+    </Terms>
+    <Definition>Certificate of Terminal Illness</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>NQF</Term>
+    </Terms>
+    <Definition>National Quality Forum</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>CMS</Term>
+    </Terms>
+    <Definition>Centers for Medicare and Medicaid Services</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>MD</Term>
+    </Terms>
+    <Definition>Medical Director</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>RN</Term>
+    </Terms>
+    <Definition>Registered Nurse</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>MSW</Term>
+    </Terms>
+    <Definition>Medical Social Worker</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>GIP</Term>
+    </Terms>
+    <Definition>General Inpatient Care</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>ALF</Term>
+    </Terms>
+    <Definition>Assisted Living Facility</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>NHPCO</Term>
+    </Terms>
+    <Definition>National Hospice and Palliative Care Organization</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>SOAP</Term>
+    </Terms>
+    <Definition>S - Subjective
+O - Objective
+A - Assessment
+P - Plan</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>RHC</Term>
+    </Terms>
+    <Definition>Routine Home Care</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>COPs</Term>
+    </Terms>
+    <Definition>Conditions of Participation</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>PNA</Term>
+    </Terms>
+    <Definition>Pneumonia</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>FWW</Term>
+    </Terms>
+    <Definition>Front Wheeled Walker</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

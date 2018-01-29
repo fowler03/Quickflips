@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Introduction"
+    StartSection="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Hospice Quickflips©"
+      Link="/Content/NGS 10/Hospice Quickflips.htm" />
+    <TocEntry
+      Title="Introduction to Hospice Quickflips©"
+      Link="/Content/NGS 10/Introduction to Hospice Quickflips.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Hospice Quickflip #1">
+    <TocEntry
+      Title="Local Coverage Determinations"
+      ReplaceMergeNode="false"
+      Link="/Content/NGS 10/Hospice Quickflips 1.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Hospice Quickflip #2">
+    <TocEntry
+      Title="General Decline in Clinical Status "
+      Link="/Content/NGS 10/Hospice Quickflips 2.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Hospice Quickflip #3">
+    <TocEntry
+      Title="Non-Disease Specific Baseline"
+      Link="/Content/NGS 10/Hospice Quickflips 3.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Hospice Quickflip #4">
+    <TocEntry
+      Title="Comorbidities"
+      Link="/Content/NGS 10/Hospice Quickflips 4.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Hospice Quickflip #5"
+    Link="/Content/NGS 10/Hospice Quickflips 5.htm"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Hospice Quickflips© #5"
+      Link="/Content/NGS 10/Hospice Quickflips 5.htm" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Therapy Quickflips 2015.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css"
+  InjectEmptyPages="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="expand" />
+  <PDF
+    PageMode="UseNone"
+    ShowUsedBookmarks="true" />
+</CatapultTarget>

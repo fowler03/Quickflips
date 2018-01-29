@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="324" MadCap:lastWidth="981">
+    <head>
+        <link href="../TableStyles/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="TopicContent">
+            <MadCap:breadcrumbsProxy />
+            <MadCap:bodyProxy />
+        </div>
+        <p style="font-size: 6pt;margin-top: 0;margin-bottom: 0;">&#160;</p>
+        <div class="FooterTable">
+            <MadCap:dropDown class="Footer">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot class="Footer">HELPFUL LINKS</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="FooterTopicMaster">
+                    <table style="width: 557px;mc-table-style: url('../TableStyles/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
+                        <col class="TableStyle-PatternedRows-Column-Regular" />
+                        <col class="TableStyle-PatternedRows-Column-Regular" />
+                        <tbody>
+                            <tr class="TableStyle-PatternedRows-Body-LightRows">
+                                <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                                    <p class="FooterTopicMaster">Corridor&#160;Company Site | <a href="https://www.madcapsoftware.com/feedback/featurerequest.aspx" target="_blank" class="footermasterurls">https://www.corridorgroup.com</a></p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                                <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                                    <p class="FooterTopicMaster">Web&#160;Store |&#160;&#160; <a href="http://forums.madcapsoftware.com/" target="_blank" class="footermasterurls">http://www.shoptcg.com</a></p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-PatternedRows-Body-LightRows">
+                                <td class="TableStyle-PatternedRows-BodyB-Regular-LightRows">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">
+                                    <p class="FooterTopicMaster">CHEX&#160;eLearning&#160;&#160; | &#160;&#160;<a href="http://kb.madcapsoftware.com/" target="_blank" class="footermasterurls">http://www.tcgchex.com</a></p>
+                                    <p class="FooterTopicMaster">&#160;</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown class="Footer">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot class="Footer">COMPANY INFORMATION</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="FooterTopicMaster">
+                    <table class="TableStyle-PatternedRows" cellspacing="0" style="mc-table-style: url('../TableStyles/PatternedRows.css');">
+                        <col class="TableStyle-PatternedRows-Column-Regular" />
+                        <col class="TableStyle-PatternedRows-Column-Regular" />
+                        <col class="TableStyle-PatternedRows-Column-Regular" />
+                        <tbody>
+                            <tr class="TableStyle-PatternedRows-Body-LightRows">
+                                <td class="TableStyle-PatternedRows-BodyB-Regular-LightRows">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/ContactIcon.png" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-PatternedRows-BodyB-Regular-LightRows">
+                                    <p class="FooterTopicMaster"><MadCap:variable name="NGS QF.CompanyName" />
+                                    </p>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="NGS QF.Street Address" />
+                                    </p>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="NGS QF.City, State, ZIP" />
+                                    </p>
+                                    <p class="FooterTopicMasterLastLine"><a href="http://www.madcapsoftware.com/" target="_blank" class="footermaster">www.corridorgroup.com</a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">
+                                    <p class="FooterTopicMasterLeftPadding"><MadCap:variable name="NGS QF.PhoneNumber" />
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+        </div>
+    </body>
+</html>

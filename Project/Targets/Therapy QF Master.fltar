@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="first"
+  MasterToc="/Project/TOCs/Therapy Quickflips 2015.fltoc"
+  MasterStylesheet="/Content/Content/Resources/Stylesheets/NGS 10.css"
+  Skin="/Project/Skins/HTML5 - Tripane.flskn"
+  MasterPage="/Content/Content/Resources/MasterPages/MasterPage.flmsp"
+  DefaultUrl="/Content/Therapy Quickflips 2015/Introduction to Therapy Quickflips.htm">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Quickflips Glossary.flglo" />
+  </Glossaries>
+</CatapultTarget>

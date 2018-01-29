@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/NGS 10_4.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p>Therapy Quickflips<sup>©</sup></p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p>© 2015 The Corridor Group</p>
+        </div>
+    </body>
+</html>

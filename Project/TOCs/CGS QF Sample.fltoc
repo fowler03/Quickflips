@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Hospice Quickflips - CGS Version"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Hospice Quickflips©"
+      Link="/Content/CGS Quickflips/Hospice Quickflips.htm" />
+    <TocEntry
+      Title="Local Coverage Determination"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 1.htm"
+      ReplaceMergeNode="false"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="General Decline in Status"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 2.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Non-Disease Specific Baseine"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 3.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Comorbidities"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 4.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="ALS"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 5.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  MasterToc="/Project/TOCs/CGS QF Sample.fltoc"
+  MasterStylesheet="/Content/Content/Content/Resources/Stylesheets/NGS 10.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="expand" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Quickflips Glossary.flglo" />
+  </Glossaries>
+  <DocumentProperties
+    CoverImage="Content\Content\Resources\Images\CGS Hospice Quickflips Cover Art - Final (2).png" />
+</CatapultTarget>

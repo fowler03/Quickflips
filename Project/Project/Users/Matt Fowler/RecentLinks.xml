@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\Matt Fowler\Documents\My Projects\Quickflips\Content\Resources\Images\NGS Quickflips cover.jpg" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\Matt Fowler\Documents\Flare Project Files from Box\Content\Palmetto Quickflips 2015\Limiting Conditions of Hospice.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog" />
+</RecentLinks>

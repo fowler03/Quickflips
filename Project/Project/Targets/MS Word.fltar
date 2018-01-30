@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/NGS QF Master.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css"
+  MasterPage="/Content/Resources/MasterPages/NGS Test 2.flmsp"
+  PatchHeadingLevels="true"
+  EmbedImages="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    ExpandingTextConversion="expand"
+    GeneratePDF="true" />
+</CatapultTarget>

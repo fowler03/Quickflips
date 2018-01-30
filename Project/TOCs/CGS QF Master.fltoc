@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Hospice Quickflips - CGS Version"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Hospice Quickflips©"
+      Link="/Content/CGS Quickflips/Hospice Quickflips.htm" />
+    <TocEntry
+      Title="Local Coverage Determination"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 1.htm"
+      ReplaceMergeNode="false"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="General Decline in Status"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 2.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Non-Disease Specific Baseine"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 3.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Comorbidities"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 4.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="ALS"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 5.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Cancer"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 6.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Coma"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 7.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Dementia"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 8.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Heart Disease"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 9.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="HIV"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 10.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Liver Disease"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 11.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Pulmonary Disease"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 12.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Renal Failure - Acute"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 13.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Renal Failure - Chronic"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 14.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Stroke"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 15.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Assessment &amp; Care Planning"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 16.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Hospice Item Set (HIS)"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 16a.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Visit Frequencies - Nurses"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 17.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Visit Frequencies – Social Workers &amp; Spiritual Care Counselors"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 18.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Hospice Dates and Times"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 19.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Psychosocial and Spiritual Goals"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 20.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Social Worker Documentation"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 21.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Spiritual Care Documentation"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 22.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Attending Physician"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 23.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Consulting Physician"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 24.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="IDT Meeting “Do’s” and “Don’ts”"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 25.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Creating a “Culture of Eligibility”"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 26.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Presenting a New Admission"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 27.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Presenting a Case for Review"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 28.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Reviewing Deaths"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 29.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Complications for Grief"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 30.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Recertification"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 31.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Continuous Care"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 32.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="General Inpatient Care"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 33.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="GIP Due to Psychosocial Crisis"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 34.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Respite Care"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 35.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Hospice Care in a Nursing Home"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 36.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Dischargte and Disposition Planning"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 37.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="SOAP Documentation"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 38.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="SOAP for Social Work &amp; Spirtual Care Coordinators"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 39.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Documentation Self-Check"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 40.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="The Big Questions"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 41.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Karnofsky and Palliative Performance Scales"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 42.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="FAST"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 43.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Resources – Keep Learning"
+      Link="/Content/CGS Quickflips/CGS Hospice Quickflips 44.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Limiting Conditions of Hospice Quickflips©"
+      Link="/Content/CGS Quickflips/Limiting Conditions of Hospice.htm" />
+  </TocEntry>
+</CatapultToc>

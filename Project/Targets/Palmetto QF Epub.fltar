@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  MasterToc="/Project/TOCs/Palmetto Quickflips 2015.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body" />
+  <DocumentProperties
+    CoverImage="Content\Resources\Images\Palmetto Hospice Quickflips Cover Art - Final.png" />
+  <Glossaries></Glossaries>
+  <MOBI
+    EnableGenerateMobi="true" />
+</CatapultTarget>

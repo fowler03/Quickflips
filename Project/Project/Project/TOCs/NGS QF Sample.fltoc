@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="NGS Hospice Quickflips">
+    <TocEntry
+      Title="Local Coverage Determination"
+      Link="/Content/NGS 10/Hospice Quickflips 1.htm"
+      StartSection="false" />
+    <TocEntry
+      Title="General Decline in Clinical Status"
+      Link="/Content/NGS 10/Hospice Quickflips 2.htm" />
+    <TocEntry
+      Title="Non-Disease Specific Baseline"
+      Link="/Content/NGS 10/Hospice Quickflips 3.htm" />
+    <TocEntry
+      Title="Comorbidities"
+      Link="/Content/NGS 10/Hospice Quickflips 4.htm" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="first"
+  DefaultUrl="/Content/CGS Quickflips/Introduction to Hospice Quickflips.htm"
+  MasterToc="/Project/TOCs/CGS QF Master.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/NGS 10.css"
+  Skin="/Project/Skins/Tripane MQG.flskn"
+  PreCompileScaledImages="false"
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
+  MinifyJavaScript="false"
+  ChunkIndex="false"
+  ChunkTOC="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Quickflips Glossary.flglo" />
+  </Glossaries>
+</CatapultTarget>
